@@ -1,3 +1,4 @@
 bin/main
 main
 pkg/darwin_amd64/Common.a
+.DS_Store
