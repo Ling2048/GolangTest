@@ -2,3 +2,14 @@ bin/main
 main
 pkg/darwin_amd64/Common.a
 .DS_Store
+bin/dlv
+bin/go-outline
+bin/go-symbols
+bin/gocode
+bin/gocode-gomod
+bin/godef
+bin/golint
+bin/gopkgs
+bin/gorename
+bin/goreturns
+bin/guru
