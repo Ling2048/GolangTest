@@ -13,3 +13,10 @@ bin/gopkgs
 bin/gorename
 bin/goreturns
 bin/guru
+bin/godoctor.exe
+bin/dlv.exe
+bin/fillstruct.exe
+bin/godef.exe
+bin/gomodifytags.exe
+bin/gopkgs.exe
+bin/goplay.exe
