@@ -1,10 +1,19 @@
 {
-    "go.useLanguageServer": true,
-    // "go.autocompleteUnimportedPackages": true,
-    // "go.gocodePackageLookupMode": "go",
-    // "go.gotoSymbol.includeImports": true,
-    // "go.useCodeSnippetsOnFunctionSuggest": true,
-    // "go.inferGopath": true,
-    // "go.gopath":"C:/Users/Administrator/go/bin",
-    // "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    // "go.useLanguageServer": true,
+    // "go.alternateTools": {
+    //   "go-langserver": "golsp",
+    // },
+    // "go.languageServerFlags": [
+    // ],
+    // "go.languageServerExperimentalFeatures": {
+    //   "format": true,
+    //   "autoComplete": true,
+    // },
+    "go.autocompleteUnimportedPackages": true,
+    "go.gocodePackageLookupMode": "go",
+    "go.gotoSymbol.includeImports": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.inferGopath": true,
+    "go.gopath":"C:/Users/Administrator/go/bin",
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
 }
